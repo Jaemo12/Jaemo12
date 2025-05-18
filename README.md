@@ -1,80 +1,67 @@
-# Hi there, I'm Amit Samant! 👋 [cite: 1]
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZsc3RrcGZscnM5c3hobjZpZ3N6ejN2dTZ0bnp6N2RnMnl5cnh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV0cmZqZGRpYnN3djY2eXF6emh0cHZ0NWhycTY0Z3BmdGVoYmNodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="150" />
 </p>
 
-I'm a passionate Full-Stack Developer specializing in cloud architecture with Next.js, React.js, Python, Java, and C++. [cite: 1] I focus on creating resilient applications on AWS/Vercel infrastructures and implementing efficient REST APIs. [cite: 2] I'm particularly interested in integrating advanced AI solutions like the Gemini API and other LLMs to enhance system capabilities. [cite: 3] My goal is to optimize distributed systems through strategic algorithm design and performance engineering, consistently delivering scalable solutions. [cite: 4]
-
-**🚀 I'm currently seeking new Software Development Engineer opportunities and am open to exciting collaborations!**
-Let's build something amazing together.
-
----
-
-## 🔧 Technologies & Skills
-
-Here's a snapshot of what I work with:
-
-* **Programming & Algorithms:** Data Structures, Java, C, C++, Python, Object-Oriented Design, Algorithm Design, Complexity Analysis [cite: 5]
-* **Systems & Architecture:** Operating Systems, Job Scheduling, File Systems, OS/Storage Systems Internals, Resource Management, Performance Engineering [cite: 5]
-* **Web & Application Development:**
-    * **Frontend:** HTML5, CSS, JavaScript, TypeScript, React, Angular, Vue, Next.js, UI/UX Design, jQuery, Flutter [cite: 5]
-    * **Backend:** Java SpringBoot, Node.js, Express.js, Python (Flask), PHP, MVC Architecture, REST APIs [cite: 5]
-    * **Databases:** SQL, NoSQL, PostgreSQL, MongoDB, MySQL, Firebase [cite: 5]
-    * **Cloud & DevOps:** Amazon Web Services (AWS), Docker, Vercel, Git, GitHub Copilot, Jenkins, CI/CD [cite: 5, 15]
-    * **Tools:** Postman, JSON, Linux [cite: 5]
-
----
-
-## 💼 Professional Experience
-
-### **TIMIO (Startup) | Chrome Extension Developer**
-*(May 2024 - Feb 2025, Dallas, Texas)* [cite: 6]
-* Engineered a Chrome extension leveraging AI to analyze news articles, enhancing research efficiency with strong object-oriented design. [cite: 6]
-* Architected and deployed scalable AWS backend infrastructure. [cite: 7]
-* Developed a responsive frontend using React.js and Tailwind CSS for an intuitive UI. [cite: 8]
-* Managed end-to-end development, integrating performance engineering and resource management. [cite: 9]
-* Integrated AI capabilities for content processing and analysis. [cite: 10]
-* Optimized cloud infrastructure and application performance by managing resources strategically. [cite: 11]
-
-### **Cognizant Technologies Solutions | Software Developer**
-*(Jul 2020 - May 2022, Coimbatore, India)* [cite: 12]
-* Developed user-focused full-stack applications using React, Angular, and Java Spring Boot. [cite: 12]
-* Utilized Docker containerization, accelerating delivery by 40%. [cite: 13]
-* Managed AWS cloud infrastructure and streamlined deployments using CI/CD pipelines, reducing infrastructure expenses by 20%. [cite: 14]
-* Optimized testing processes with Selenium, achieving 30% faster test cycles and reducing bug incidence by 20%. [cite: 15]
-* Conducted performance testing, increasing system efficiency by 26%. [cite: 16]
-
----
-
-## 💡 Project Spotlight
-
-### **AI DIARY**
-* Developed "AI Diary," a mental wellness app featuring AI-powered journaling and mood tracking. [cite: 18]
-* **Tech Stack:** Next.js and React for the frontend, Firebase for secure data storage, AWS Textract for handwritten PDF analysis, and Gemini API for personalized insights. [cite: 19]
-* **Key Achievements:**
-    * Engineered frontend with Next.js and React, achieving a 95% mobile responsiveness rating and a 50% reduction in page load times. [cite: 20]
-    * Integrated AWS Textract to extract text from handwritten PDF journals with 90% accuracy. [cite: 21]
-    * Leveraged Gemini API to deliver personalized insights, generating 20% more relevant recommendations.
-
----
-
-## 🎓 Education
-
-**Texas A&M University | Master of Science, Computer Science** [cite: 17]
-*(Aug 2022 - May 2024, Corpus Christi)*
-* GPA: 3.6 [cite: 17]
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-I'm actively looking for job opportunities where I can contribute my skills in full-stack development, cloud architecture, and AI integration. I'm also excited about collaborating on innovative projects.
-
-* **LinkedIn:** [linkedin.com/in/amitsamant12](https://linkedin.com/in/amitsamant12) [cite: 1]
-* **Email:** [samantamitus@gmail.com](mailto:samantamitus@gmail.com) [cite: 1]
-* **GitHub:** You're here! ([github.com/Jaemo12](https://github.com/Jaemo12)) [cite: 1]
+<h1 align="center">Amit Samant</h1>
+<p align="center">
+  Full-Stack Developer ☁️ | AI Enthusiast 🤖 | Cloud Architect 🏗️
+</p>
+<p align="center">
+  <em>Specializing in Next.js, React, Python, Java & AWS</em> [cite: 1]
+</p>
 
 <p align="center">
-  Thanks for visiting my profile!
+  <strong>✨ Actively seeking Software Development Engineer roles & exciting collaborations! ✨</strong>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/amitsamant12" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+  <a href="mailto:samantamitus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> &nbsp;
+  <a href="https://github.com/Jaemo12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+## 🚀 My Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+  <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=flat-square&logoColor=white" alt="Gemini API"/>
+</p>
+
+---
+
+## 🌟 Quick Highlights
+
+* **AI-Powered Chrome Extension (TIMIO):** Engineered an AI extension to analyze news articles, enhancing research efficiency. [cite: 6] Deployed on a scalable AWS backend with a React/Tailwind frontend. [cite: 7, 8]
+* **AI Diary App:** Developed a mental wellness app ("AI Diary") using Next.js, React, Firebase, AWS Textract, and Gemini API for personalized insights. [cite: 18, 19] Achieved 90% text extraction accuracy from handwritten PDFs. [cite: 21]
+* **Cloud & DevOps Pro:** Accelerated delivery by 40% with Docker[cite: 13]; reduced infrastructure expenses by 20% via CI/CD & AWS optimization. [cite: 14]
+
+---
+
+<p align="center">
+  👇 Let's connect and build something great! 👇
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/amitsamant12">LinkedIn</a> | <a href="mailto:samantamitus@gmail.com">Email Me</a>
 </p>
